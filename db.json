@@ -5,32 +5,32 @@
             "year": 2022,
             "colorName": "Very Peri",
             "fill": "#6667AB",
-            "words": "The colour I am using.",
-            "likes": 30
+            "words": "<a href='https://www.pantonecn.com/color-of-the-year-2022' target='_blank' rel='noopener noreferrer'>PANTONE 17-3938</a>. The colour I am using.",
+            "likes": 0
         },
         {
             "id": 1,
             "year": 2021,
             "colorName": "Ultimate Gray",
             "fill": "#939597",
-            "words": "The colour you see first when this page is finish loading.",
-            "likes": 2
+            "words": "<a href='https://www.pantonecn.com/color-of-the-year-2021' target='_blank' rel='noopener noreferrer'>PANTONE 17-5104</a>. The colour you see first when this page is loading.",
+            "likes": 0
         },
         {
             "id": 2,
             "year": 2020,
             "colorName": "Classic Blue",
             "fill": "#0F4C81",
-            "words": "The colour I used at first.",
-            "likes": 3
+            "words": "<a href='https://www.pantonecn.com/color-of-the-year-2020' target='_blank' rel='noopener noreferrer'>PANTONE 19-4052</a>. The colour I used at first.",
+            "likes": 0
         },
         {
             "id": 3,
             "year": 2008,
             "colorName": "Chinese Red",
             "fill": "#E60000",
-            "words": "The colour I will use in the spring festival.",
-            "likes": 8
+            "words": "I know this colour which will be used in the spring festival from this <a href='https://www.bilibili.com/video/BV1mS4y1V7Bj' target='_blank' rel='noopener noreferrer'>video</a>.",
+            "likes": 0
         }
     ]
 }
