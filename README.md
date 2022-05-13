@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Website link: [eddiehe.super.site/my-profile-pictures-favicons](https://eddiehe.super.site/my-profile-pictures-favicons)
+Link: [eddiehe.super.site/my-profile-pictures-favicons](https://eddiehe.super.site/my-profile-pictures-favicons)
 
 ## JSON
 
