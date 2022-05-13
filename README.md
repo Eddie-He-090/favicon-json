@@ -24,6 +24,8 @@ Website link: [eddiehe-favicons-darkmode.vercel.app](https://eddiehe-favicons-da
 
 Repository link: [github.com/eddiehe49/favicons-react-antd](https://github.com/eddiehe49/favicons-react-antd)
 
+---
+
 ### favicons-vue-vuetify
 
 Codes for my lightmode favicons websites.
@@ -31,6 +33,8 @@ Codes for my lightmode favicons websites.
 Website link: [eddiehe-favicons-lightmode.onrender.com](https://eddiehe-favicons-lightmode.onrender.com)
 
 Repository link: [github.com/eddiehe49/favicons-vue-vuetify](https://github.com/eddiehe49/favicons-vue-vuetify)
+
+---
 
 ### favicons-waline
 
