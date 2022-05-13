@@ -14,6 +14,8 @@ Website link: [eddiehe-favicons.vercel.app](https://eddiehe-favicons.vercel.app)
 
 Repository link: [github.com/eddiehe49/favicons-react-mui](https://github.com/eddiehe49/favicons-react-mui)
 
+---
+
 ### favicons-react-antd
 
 Codes for my darkmode favicons websites.
