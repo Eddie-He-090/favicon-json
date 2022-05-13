@@ -1,31 +1,39 @@
-# Eddie He's Favicons Websites
+# Eddie's Favicons Websites
 
-## main
+## JSON
 
 The db.json which is for JSONPlaceholse stores the basic format of the data.
 
-## The other branches
+## Websites
 
 ### favicons-react-mui
 
 Codes for my favicons websites.
 
-Link: [eddiehe-favicons.vercel.app](https://eddiehe-favicons.vercel.app)
+Website link: [eddiehe-favicons.vercel.app](https://eddiehe-favicons.vercel.app)
+
+Repository link: [github.com/eddiehe49/favicons-react-mui](https://github.com/eddiehe49/favicons-react-mui)
 
 ### favicons-react-antd
 
 Codes for my darkmode favicons websites.
 
-Link: [eddiehe-favicons-darkmode.vercel.app](https://eddiehe-favicons-darkmode.vercel.app)
+Website link: [eddiehe-favicons-darkmode.vercel.app](https://eddiehe-favicons-darkmode.vercel.app)
+
+Repository link: [github.com/eddiehe49/favicons-react-antd](https://github.com/eddiehe49/favicons-react-antd)
 
 ### favicons-vue-vuetify
 
 Codes for my lightmode favicons websites.
 
-Link: [eddiehe-favicons-lightmode.onrender.com](https://eddiehe-favicons-lightmode.onrender.com)
+Website link: [eddiehe-favicons-lightmode.onrender.com](https://eddiehe-favicons-lightmode.onrender.com)
+
+Repository link: [github.com/eddiehe49/favicons-vue-vuetify](https://github.com/eddiehe49/favicons-vue-vuetify)
 
 ### favicons-waline
 
 Codes for the comment section embedded in the websites.
 
-Link: [eddiehe-favicons-waline.vercel.app](https://eddiehe-favicons-waline.vercel.app)
+Website link: [eddiehe-favicons-waline.vercel.app](https://eddiehe-favicons-waline.vercel.app)
+
+Repository link: [github.com/eddiehe49/favicons-waline](https://github.com/eddiehe49/favicons-waline)

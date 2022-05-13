@@ -1,2 +1,2 @@
-handleJsonbinFavicons.py
-handleKratesFavicons.py
+JSONBIN_favicons_handler.py
+Krates_favicons_handler.py
