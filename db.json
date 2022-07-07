@@ -6,7 +6,7 @@
             "colorName": "Very Peri",
             "fill": "#6667AB",
             "words": "<a href='https://www.pantonecn.com/color-of-the-year-2022' target='_blank' rel='noopener noreferrer'>PANTONE 17-3938</a>.<br />The colour I am using.",
-            "likes": 0
+            "likes": 1
         },
         {
             "id": 1,
@@ -30,6 +30,14 @@
             "colorName": "Chinese Red",
             "fill": "#E60000",
             "words": "<a href='https://www.bilibili.com/video/BV1mS4y1V7Bj' target='_blank' rel='noopener noreferrer'>rgb(230, 0, 0)</a>.<br />The colour I use in the Spring Festival.",
+            "likes": 1
+        },
+        {
+            "id": 4,
+            "year": 2022,
+            "colorName": "International Orange",
+            "fill": "#FF4F00",
+            "words": "<a href='https://www.bilibili.com/video/BV1PZ4y1e7nu' target='_blank' rel='noopener noreferrer'>#FF4F00</a>.<br />Peace & Love.",
             "likes": 0
         }
     ]
